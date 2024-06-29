@@ -1,0 +1,132 @@
+/* body{ 
+
+    font-family: sans-serif;
+   
+}
+.main-container{
+    background-color: darkgoldenrod;
+    padding: 8px 0px;
+}
+
+.box-img {
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+}
+
+.first-container {
+	display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.first-container {
+    background: lightgray;
+}
+.home {
+    background: #fff;
+    padding: 10px 133px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.container-box {
+    background: darkgray;
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 0px;
+}
+.box {
+    width: 31%;
+    text-align: left;
+    background: #fff;
+    padding: 10px;
+   
+}
+input[type="submit"] {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+p.box-para {
+    height: 100px;
+}
+.footer {
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+*/
+
+*{
+margin: 0%;
+}
+.main{
+display: flex;
+justify-content: center;
+gap:0px;
+height: 70vh;
+margin-top: 25px;
+flex-wrap: wrap;
+justify-content: flex-end;
+
+
+}
+
+.card{
+
+
+    padding: 5px;
+    width: 20rem;
+    text-align: center;
+    justify-content: center;
+    margin-top: -27px;
+    
+}
+
+.image.card{
+width: 15rem;
+height: 200px;
+object-fit: cover;
+
+}
+.brand{
+    margin-left: -100px;
+}
+
+pre{
+margin-left: -165px;
+color: gray;
+}
+h4{
+    margin-left: -150px;
+}
+
+p{
+margin-left: 269px;
+margin-top: -10px;
+}
+h2{
+margin-left: 15px;
+}
+.sale{
+margin-top: -201px;
+margin-left: -175px;
+color: blue;
+
+}
+input{
+margin-left: 79px;
+margin-top: 40px;
+}
+span{
+    justify-content: center;
+margin-top: 40px;
+border: 1px solid black;
+margin-left: 700px;
+
+}
